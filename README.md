@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software Developmment
 - 🌱 I’m currently learning WebDevelopment
 - 💞️ I’m looking to collaborate on Web Projects
-- 📫 How to reach me @aniruddh.nagae@vpt.edu.in
+- 📫 How to reach me aniruddh.nagae@vpt.edu.in
